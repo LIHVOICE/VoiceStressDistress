@@ -41,8 +41,8 @@ Each contains:
 | `language`       | Recording language                         |
 | `age`            | Participant age                            |
 | `typediabetes`   | Type of diabetes                           |
-| `hba1c`          | Glycated hemoglobin level                  |
-| `paid_score`     | Diabetes-related distress score            |
+| `hba1c`          | 1 if above 7, 0 else                       |
+| `paid_score`     | PAID score grouped in categories           |
 
 ---
 
