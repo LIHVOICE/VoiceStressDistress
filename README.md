@@ -103,7 +103,7 @@ Users must:
 
 ## License
 
-This dataset is released under the **Creative Commons CC0 1.0 Universal license**.
+This dataset is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 
 ---
 
